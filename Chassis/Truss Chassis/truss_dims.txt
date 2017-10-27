@@ -1,4 +1,2 @@
-﻿"truss_member_od" = .25in
-"truss_member_id" = 0in
-"truss_member_L1" = 2.75in
+﻿"truss_member_L2" = 2.75in
 "connector_hole_depth" = .375in
